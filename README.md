@@ -1,2 +1,4 @@
-# tim-corey-dotnet-tutorials
-Going through Tim Corey tutorials
+# Microsoft Dotnet Tutorials with Blazor
+
+- [Blazor Modules List](https://learn.microsoft.com/en-us/training/paths/build-web-apps-with-blazor/)
+- [Microsoft browse all courses](https://learn.microsoft.com/en-us/training/browse/?terms=blazor)
