@@ -1,1 +1,45 @@
+# .NET Core
 bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# ASP.NET Core
+wwwroot/
+node_modules/
+dist/
+.env
+
+# Visual Studio
+.vscode/
+.vs/
+*.csproj.user
+*.csproj.vspscc
+*.csproj.vspscc
+*.sln
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.tss
+*.tss.cache
+*.tss.log
+*.tss.user
+*.tss.userosscache
+*.tss.userprefs
+
+# Rider
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
